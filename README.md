@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @Kevin588472
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hola, soy Kevin Monroy  
 
-<!---
-Kevin588472/Kevin588472 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Estudiante de 2º año de **Ingeniería en Sistemas**.  
+🚀 Apasionado por el desarrollo de software y la creación de soluciones innovadoras.  
+📚 Actualmente aprendiendo **Python (Flask), Java y UML**.  
+
+## 🌱 Actualmente estoy aprendiendo...
+- Desarrollo web con Flask  
+- Programación orientada a objetos en Java  
+- Modelado UML para sistemas  
+
+## 🤝 Estoy buscando colaborar en...
+- Proyectos de desarrollo web  
+- Aplicaciones educativas o de gestión  
+- Iniciativas open source para mejorar mis habilidades  
+
+## 🛠️ Tecnologías y herramientas
+- **Lenguajes:** Python, Java, SQL  
+- **Frameworks:** Flask  
+- **Herramientas:** Git, GitHub, UML, Visual Studio Code  
+
+## 📌 Proyectos destacados
+- 📘 *Sistema escolar en Flask* → Gestión académica de estudiantes  
+- 🎓 *Pensum virtual de inglés (A1+)* → Plataforma educativa interactiva  
+- 🗂️ *Gestión de proyectos finales (Java + UML)* → Modelado de clases y casos de uso  
+
+## 📫 Cómo llegar a mí...
+- ✉️ Email: **kevingarciaff@gmail.com**  
+ 
